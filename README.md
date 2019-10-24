@@ -26,7 +26,7 @@ This goes on until the user gives an incorrect answer or if they answer all 9 qu
 ***Improvements for the future:***
 
 * Add in difficulty levels by decreasing how quickly balloons move up the screen thereby giving a user less time to answer.
-* Improve the score calculator to take into account how quickly an answer was answered.
+* Improve the score calculator to take into account how quickly a question was answered.
 * Adding more questions and an Hitpoint system so a user doesn't automatically lose after answering 1 question incorrectly.
 * Randomize the order in which questions appear, this would require some checking to make sure that the answers still match up to the     questions based on index. A dictionary could be implemented but it would requrie extra code as dictionarys can't be reshuffled.
 * Add a time limiter so that the game runs at 60 fps, this will ensure all systems experience the same game and will aid in implementing   the difficulty functions.
