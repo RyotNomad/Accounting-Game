@@ -33,5 +33,5 @@ This goes on until the user gives an incorrect answer or if they answer all 9 qu
 * Slight change to the exit conditions to use list size in the checks rather than the hard-coded 9.
 * Split the program up into functions as the code is difficult to read and edit in it's current state.
 * Improve the size of the clickable area for each balloon if more difficulties are added.
-* Add animations to improve the overall feel.
-* Add visual and audio feedback when a user clicks a balloon
+* Add animations.
+* Add visual and audio feedback for users
