@@ -6,7 +6,9 @@ These files are not included here, only the main .py file and required image and
 
 ![Alt text](Acc-Game.png)
 
+Video of gameplay: 
 
+https://youtu.be/xatQI_pozIM
 
 ***REQUIRES PYGAME***
 
